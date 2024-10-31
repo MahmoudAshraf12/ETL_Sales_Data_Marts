@@ -3,7 +3,8 @@ SSIS Project using Star Schema with Different Packages
 ## First Package:
 ### The Product Dimension
 ![ProductDim](https://github.com/user-attachments/assets/bf863708-ec3d-4c33-9034-c443b8b7880a)
-## Second Package: ### The Customer Dimension
+## Second Package:
+### The Customer Dimension
 ![CustomerDim](https://github.com/user-attachments/assets/e9ee2390-eec6-4bed-a6ab-b176ec07ace0)
 ## Third Package:
 ### The Date Dimension
